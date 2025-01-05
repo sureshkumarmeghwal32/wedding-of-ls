@@ -1,1 +1,62 @@
 ><h1> WEDDING </h1>
+<html>
+<head>
+<title>s love L </title>
+</head>
+<body> 
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9700.JPG" " hight=700 width=500">
+</body>
+</HTML>
+<html>
+<head>
+<title>s love L </title>
+</head>
+<body> 
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9701.JPG" " hight=700 width=500">
+</body>
+</HTML>
+
+<html>
+<head>
+<title>s love L </title>
+</head>
+<body> 
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9705.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9706.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9707.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9708JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9710.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9711.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9713.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9714.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9715.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9716.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9717.JPG" " hight=700 width=500">
+
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9718.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9719.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9720.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9721.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9722.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9723.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9724.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9725.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9726.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9727.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9728.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9729.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9730.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9731.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9732.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9733.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9734.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9735.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9736.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9737.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9738.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9739.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9740.JPG" " hight=700 width=500">
+<img src= "C:\Users\ragav mali\Desktop\100CANON\IMG_9741.JPG" " hight=700 width=500">
+
+</body>
+</HTML>
